@@ -1,5 +1,5 @@
 ### Temperature Chart 🌡📊📉
-This is a chart of my daily body temperture. ![Image](https://docs.google.com/spreadsheets/d/e/2PACX-1vR6WP5VkBdNC9-IEKvDmr-aG3J4zCEX8SrhAW4VCYZNeqtOAogsYEC5pzFG-rQUivKdwUp4uGImCISW/pubchart?oid=1318017882&format=image)
+🔵-actual tempeperature 🟢-normal temperature range 🔴 - you have a fever! ![Image](https://docs.google.com/spreadsheets/d/e/2PACX-1vR6WP5VkBdNC9-IEKvDmr-aG3J4zCEX8SrhAW4VCYZNeqtOAogsYEC5pzFG-rQUivKdwUp4uGImCISW/pubchart?oid=1318017882&format=image)
 
 ### [Interactive chart](https://docs.google.com/spreadsheets/d/e/2PACX-1vR6WP5VkBdNC9-IEKvDmr-aG3J4zCEX8SrhAW4VCYZNeqtOAogsYEC5pzFG-rQUivKdwUp4uGImCISW/pubchart?oid=1318017882&format=interactive)
 
