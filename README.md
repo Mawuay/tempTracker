@@ -1,4 +1,4 @@
-# Temperature Tracker 🌡
+### Temperature Chart 🌡 📊📉
 
 This site was built using Github pages and google sheets.
 
