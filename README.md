@@ -35,3 +35,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+### Temperature Chart 
+
+This is a chart of my body temperture ![alt text](https://docs.google.com/spreadsheets/d/e/2PACX-1vR6WP5VkBdNC9-IEKvDmr-aG3J4zCEX8SrhAW4VCYZNeqtOAogsYEC5pzFG-rQUivKdwUp4uGImCISW/pubchart?oid=1318017882&format=interactive)
